@@ -14,8 +14,6 @@
 
 💻 Passionate on challenges and programming
 
-🧠 Quick learner
-
-🎯 Studying full-stack development, focused on JavaScript and TypeScript
+🎯 I'm currently studying full-stack development, focused on Node js and React
 
 🎓 Undergraduated in Computer Science at Federal University of Campina Grande
