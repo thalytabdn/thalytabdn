@@ -1,5 +1,5 @@
 <h1>Hi there, I'm <a href="https://thalytabdn.github.io">Thalyta
-  </a><img align="center" src="https://raw.githubusercontent.com/thalytabdn/thalytabdn/master/assets/wave.gif" height="33px"/>
+  </a><img align="center" src="assets/wave.gif" height="33px"/>
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thalyta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalytabdn/)](https://www.linkedin.com/in/thalytabdn/)
