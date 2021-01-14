@@ -9,7 +9,7 @@
 
 💻 Passionate on challenges and programming
 
-🎯 I'm currently studying full-stack development, focused on Node js and React
+🎯 I'm currently studying full-stack development
 
 
 
