@@ -9,7 +9,7 @@
 
 💻 Passionate on challenges and programming
 
-🎯 I'm currently studying full-stack development
+🎯 I'm currently studying backend development
 
 
 <a href="https://github.com/thalytabdn/github-readme-stats">
